@@ -4,7 +4,7 @@
 ###### I recommend at least **2M HP** as minimum requirement. Possible to go lower with daphne but not recommended below 1.7M. 
 
 ## Moveset
-![SP2 Moveset](../image/spguide/sp2moveset.png)
+![SP2 Moveset](../image/spguide/s4sp2moveset.png)
 
 
 1. It's **COMMON** to have unit **dead** due the high firing power of enemy or focus fire. 
