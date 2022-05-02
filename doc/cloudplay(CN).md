@@ -70,11 +70,19 @@ ID: 16659517<br>
 <summary> 什麼是user-agent？ </summary>
 
 後台會讀取user-agent來辨認你是什麼平台. 
+<br>
 
-安卓的例子：
+安卓的例子： 
+
+<br>
+
 Mozilla/5.0 (Linux; Android 12) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Mobile Safari/537.36
+<br>
+
 愛瘋的例子：
 Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+
+<br>
 
 更改了就能騙布魔雲玩以為你是IOS，就會讓你登入
 </details>
@@ -100,7 +108,7 @@ Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHT
 <details>
 <summary> 用自己的收藏和用我的有什麼差別？ </summary>
 
-差別在那天我刪了我的收藏，你就要自己弄了
+差別在哪天我刪了我的收藏，你就要自己弄了
 </details>
 
 ### 注意以後
