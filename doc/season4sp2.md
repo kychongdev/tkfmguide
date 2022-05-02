@@ -10,26 +10,27 @@
 1. It's **COMMON** to have unit **dead** due the high firing power of enemy or focus fire. 
 2. Ba'al always target 3rd position. Recommended to guard to avoid iblis hit 3rd too coincidentally.
 3. **NOT RECOMMEND**  Satan can be sleep, Ba'al can be paralyze, Iblis can be silence. Satan's choice cannot be delay, happen 3n+1(Crazed higher priorty). Other skill can be delay/skip. Ba'al and Iblis skill will reset to normal (follow table) after charge end. 
-4. Break Ba'al if you want safer, Break Iblis if you want faster
-5. The killing order dictate how fast/easy for you to complete it: 
+4. Break Ba'al **[8]** if you want safer, Break Iblis **[9]** if you want faster
+5. In a nutshell, read the moveset and be careful of dying. This might be all you need to know.
+6. The killing order dictate how fast/easy for you to complete it: 
  
-##### The safest order - Ba'al, Satan/Iblis 
+##### The safest order - Ba'al, Satan/Iblis
+
 - Ba'al is a threat because of her skill **[5]** and it's stackable. Once it goes up to 3+ stacks, they might one shot your unit. Hitting her also debuff you unit **[7]**, avoid hitting her with your lowest HP unit(if it's attacker) before satan choice 
-- Strongly recommend to bring the Daphne + Reduce recovery rate unit - Caesar, Summer Nana or OG shizuka 3* (not recommend)
-- Satan will obtain buff **[4]** once Ba'al dead, you will need daphne shield to tank buffed counter damage **[2]**/sustain and reduce satan's healing. It's doable to not bring reduce recovery unit if you have enough firepower.
+- Recommend to bring the Daphne + Reduce recovery rate unit - Caesar, Summer Nana or OG shizuka 3* (not recommend). Daphne allowed you to burst her on Crazed and not die to counter attack.
+- Satan will obtain buff **[4]** once Ba'al dead, you need reduce recovery rate unit to slowly grind her down. It's also doable to not bring them if you have enough firepower.
 - Iblis is recommended to kill last because satan's buff **[3]** if iblis die first. Satan will have 75% total reduce damage and extremely hard to kill. It's doable to kill iblis second if you have strong dps to kill satan last.
 - It's recommended to break Ba'al **[8]** instead of Iblis **[9]** to have better sustain.
 
 ##### The fastest path - Satan, Ba'al/Iblis
 - If you have high investment unit, you can do this path. Kill Satan on Crazed T7 **[1]**, then kill whoever you want. Try to kill them asap. Iblis + Ba'al **[6]** might instant kill 3rd pos even if you guard.
 
-5. Safe comp (max hp buff on lead): 
+5. Safe comp (max hp lead buff but slow): 
 Hm.Fiora Lead + Daphne + 3 Attackers 
 **(Extremely slow if you dont burst on crazed/bring debuffer)**
-Hm.Fiora + defender (suggest budget tank water Leona Pos3 to tank Ba'al) + 3 attackers
-Tm.Mina + Daphne
+Hm.Fiora Lead + defender (suggest budget tank water Leona Pos3 to tank Ba'al) + 3 attackers
 6. Good comp (Meta, Fast & Easy with decent investment):
-Tm.Mina + Light attackers, B.Satan, B.Baal, Caesar
+Tm.Mina Lead + Light attackers, B.Satan, B.Baal, Caesar
 7. No longer meta comp: 
 Slulu, S.Nana + Tyrella (Both lead skill additional attack wont trigger Satan's counter attack)
 
@@ -40,12 +41,11 @@ Slulu, S.Nana + Tyrella (Both lead skill additional attack wont trigger Satan's 
 - Paralysis Immunity
 - Immunity to CD changes
 
-### Skill
-#### Crazed [1]
+#### [Crazed] [1]
 - When attacked, there's a 100% chance to perform a counter attack on all enemies for 50% for your attack power.
 - Take 50% more damage
 
-#### Satan Choice (Target on the lowest Max HP)
+#### [Satan Choice] (Target on the lowest Max HP)
 Apply effect on the target
 - Taunt, force the enemy to attack you
 - Take 30% more damage
@@ -66,8 +66,10 @@ Apply effect on the target
 - When Attacked, there's a 100% chance to Target takes 15% more damage for 3 turns **[6]**
 - Immunity to CD changes
 
-### Skill
-- To be added
+#### [Flames of Hell]
+- Single Target(Position 3)
+#### [Psycological Flame]
+- Single Target(Position 3)
 
 #### 50% HP Below trigger [Space Time Contortion]
 - On ultimate skill, there's a 100% chance to increase party's current ultimate skill cd by 1
@@ -87,9 +89,10 @@ Apply effect on the target
 - When attacked, there's a 100% chance to Decrease target's Attack Power by 15% for 3 turns.
 - Immunity to CD changes
 
-### Skill
-- To be added
-
+#### [Power Creep]
+- Single Target (Random)
+#### [Power Rose]
+- Single Target (Random)
 #### 50% HP below trigger [Power unleash]
 - On attack, there's a 100% chance to increase party's Attack Power by 10%(Max 50 Stacks)
 When dealing damage, recover HP equal to 50% of the damage dealt
