@@ -27,7 +27,7 @@ ID: 16659517<br>
 去谷歌商店下載 **Firefox Browser(Nightly For Developers)**
 ![Firefox Nightly](../image/cloudplay/FirefoxNightly.png)
 
-### 第三步
+## 第三步
 
 打開剛下載的FF(FireFox) > 右下角設定 > 關於 Firefox Browser
 
