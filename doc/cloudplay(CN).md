@@ -5,13 +5,21 @@
 ## 第一步
 這個步驟可以省略，直接應用我已經弄好的收藏
 ID: 16659517
-收藏名字: useragent
+收藏集名稱: useragent
 <details>
-<summary>打開這個 如果你要創新帳號，使用自己的收藏
+<summary>如果你不想要使用我的，請打開這個 
 </summary>
+<br>
 
+首先你要在Firefox網站先**創新帳號**，然後去以下網址
 [User Agent Switcher扩展](https://addons.mozilla.org/zh-CN/firefox/addon/uaswitcher/)
-[](https://www.come)
+
+![addcollection](../image/cloudplay/addcollection.png)
+**注意：自定義網址：數字為你的用戶ID，後面填寫的為你的收藏名字**
+**上面兩個選項（收藏集名稱和描述）沒意義，你隨便填**
+![create](../image/cloudplay/create.png)
+成功的畫面
+![added](../image/cloudplay/added.png)
 </details>
 
 ## 第二步
