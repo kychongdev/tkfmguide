@@ -1,7 +1,12 @@
 # Guide on SP2
-The 3 Archdemon Satan, Iblis, Ba'al
-[Stage Recommend Lvl 60 Pot 12]
-I recommend at least **2M HP** as minimum requirement. Possible to go lower with daphne but not recommended below 1.7M. 
+## The 3 Archdemon Satan, Iblis, Ba'al
+##### [Stage Recommend Lvl 60 Pot 12]
+###### I recommend at least **2M HP** as minimum requirement. Possible to go lower with daphne but not recommended below 1.7M. 
+
+## Moveset
+![SP2 Moveset](../image/spguide/sp2moveset.png)
+
+
 1. It's **COMMON** to have unit **dead** due the high firing power of enemy or focus fire. 
 2. Ba'al always target 3rd position. Recommended to guard to avoid iblis hit 3rd too coincidentally.
 3. **NOT RECOMMEND**  Satan can be sleep, Ba'al can be paralyze, Iblis can be silence. Satan's choice cannot be delay, happen 3n+1(Crazed higher priorty). Other skill can be delay/skip. Ba'al and Iblis skill will reset to normal (follow table) after charge end. 
@@ -16,7 +21,7 @@ I recommend at least **2M HP** as minimum requirement. Possible to go lower with
 - It's recommended to break Ba'al **[8]** instead of Iblis **[9]** to have better sustain.
 
 ##### The fastest path - Satan, Ba'al/Iblis
-If you have high investment unit, you can do this path. Kill Satan on Crazed T7 **[1]**, then kill whoever you want. Try to kill them asap. Iblis + Ba'al **[6]** might instant kill 3rd pos even if you guard.
+- If you have high investment unit, you can do this path. Kill Satan on Crazed T7 **[1]**, then kill whoever you want. Try to kill them asap. Iblis + Ba'al **[6]** might instant kill 3rd pos even if you guard.
 
 5. Safe comp (max hp buff on lead): 
 Hm.Fiora Lead + Daphne + 3 Attackers 
@@ -46,13 +51,13 @@ Apply effect on the target
 - Take 30% more damage
 
 #### 50% HP below trigger [Power Enhance] [2]
-Increase Attack Power by 70%
+- Increase Attack Power by 70%
 
 #### Iblis Dead trigger [Prowess Enhance] [3]
-Take 25% less damage
+- Take 25% less damage
 
 #### Ba'al Dead trigger [Recovery Enhance] [4]
-Recover 5% HP every turn
+- Recover 5% HP every turn
 
 ## Archdemon Ba'al
 - Silence Immunity
@@ -62,18 +67,18 @@ Recover 5% HP every turn
 - Immunity to CD changes
 
 ### Skill
-To be added
+- To be added
 
 #### 50% HP Below trigger [Space Time Contortion]
-On ultimate skill, there's a 100% chance to increase party's current ultimate skill cd by 1
+- On ultimate skill, there's a 100% chance to increase party's current ultimate skill cd by 1
 
 #### Iblis dead trigger [Magic Increase Area]
-On attack, there's a 100% chance to Decrease all enemies Attack Power by 5% (Max 50 Stacks)
+- On attack, there's a 100% chance to Decrease all enemies Attack Power by 5% (Max 50 Stacks)
 #### Satan dead trigger [Magic Enhance] [7]
-Increase Attack Power by 70%
+- Increase Attack Power by 70%
 
 #### Charge [Raging Flames] [8]
-AOE damage to all enemies and apply Decrease attack power by 25% 
+- AOE damage to all enemies and apply Decrease attack power by 25% 
 
 ## Archdemon Iblis
 - Paralysis Immunity
@@ -83,17 +88,17 @@ AOE damage to all enemies and apply Decrease attack power by 25%
 - Immunity to CD changes
 
 ### Skill
-To be added
+- To be added
 
 #### 50% HP below trigger [Power unleash]
-On attack, there's a 100% chance to increase party's Attack Power by 10%(Max 50 Stacks)
+- On attack, there's a 100% chance to increase party's Attack Power by 10%(Max 50 Stacks)
 When dealing damage, recover HP equal to 50% of the damage dealt
 
 #### Ba'al dead trigger [Poisoned Rose]
-When attacked, there's a 100% chance to Reduce target's Recovery Rate by 30% for 2 turns
+- When attacked, there's a 100% chance to Reduce target's Recovery Rate by 30% for 2 turns
 
 #### Satan Dead trigger [Roxy Thorns]
-When attacked, there a 100% chance to decrease target's attack power 25% by 2 turns
+- When attacked, there a 100% chance to decrease target's attack power 25% by 2 turns
 
 #### Charge [Demonic Rose] [9]
-AOE To all enemies and apply - Take 25% more damage
+- AOE To all enemies and apply - Take 25% more damage
