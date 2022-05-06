@@ -1,38 +1,9 @@
 # Guide on SP2
 ## The 3 Archdemon Satan, Iblis, Ba'al
 ##### [Stage Recommend Lvl 60 Pot 12]
-###### I recommend at least **2M HP** as minimum requirement. Possible to go lower with daphne but not recommended below 1.7M. 
 
 ## Moveset
 ![SP2 Moveset](../image/spguide/s4sp2moveset.png)
-
-
-1. It's **COMMON** to have unit **dead** due the high firing power of enemy or focus fire. 
-2. Ba'al always target 3rd position. Recommended to guard to avoid iblis hit 3rd too coincidentally.
-3. **NOT RECOMMEND**  Satan can be sleep, Ba'al can be paralyze, Iblis can be silence. Satan's choice cannot be delay, happen 3n+1(Crazed higher priorty). Other skill can be delay/skip. Ba'al and Iblis skill will reset to normal (follow table) after charge end. 
-4. Break Ba'al **[8]** if you want safer, Break Iblis **[9]** if you want faster
-5. In a nutshell, read the moveset and be careful of dying. This might be all you need to know.
-6. The killing order dictate how fast/easy for you to complete it: 
- 
-##### The safest order - Ba'al, Satan/Iblis
-
-- Ba'al is a threat because of her skill **[5]** and it's stackable. Once it goes up to 3+ stacks, they might one shot your unit. Hitting her also debuff you unit **[7]**, avoid hitting her with your lowest HP unit(if it's attacker) before satan choice 
-- Recommend to bring the Daphne + Reduce recovery rate unit - Caesar, Summer Nana or OG shizuka 3* (not recommend). Daphne allowed you to burst her on Crazed and not die to counter attack.
-- Satan will obtain buff **[4]** once Ba'al dead, you need reduce recovery rate unit to slowly grind her down. It's also doable to not bring them if you have enough firepower.
-- Iblis is recommended to kill last because satan's buff **[3]** if iblis die first. Satan will have 75% total reduce damage and extremely hard to kill. It's doable to kill iblis second if you have strong dps to kill satan last.
-- It's recommended to break Ba'al **[8]** instead of Iblis **[9]** to have better sustain.
-
-##### The fastest path - Satan, Ba'al/Iblis
-- If you have high investment unit, you can do this path. Kill Satan on Crazed T7 **[1]**, then kill whoever you want. Try to kill them asap. Iblis + Ba'al **[6]** might instant kill 3rd pos even if you guard.
-
-5. Safe comp (max hp lead buff but slow): 
-Hm.Fiora Lead + Daphne + 3 Attackers 
-**(Extremely slow if you dont burst on crazed/bring debuffer)**
-Hm.Fiora Lead + defender (suggest budget tank water Leona Pos3 to tank Ba'al) + 3 attackers
-6. Good comp (Meta, Fast & Easy with decent investment):
-Tm.Mina Lead + Light attackers, B.Satan, B.Baal, Caesar
-7. No longer meta comp: 
-Slulu, S.Nana + Tyrella (Both lead skill additional attack wont trigger Satan's counter attack)
 
 ## Archdemon Satan
 - Take 50% less damage
@@ -105,3 +76,36 @@ When dealing damage, recover HP equal to 50% of the damage dealt
 
 #### Charge [Demonic Rose] [9]
 - AOE To all enemies and apply - Take 25% more damage
+
+<br>
+
+<details>
+
+<summary>I can't survive in this stage</summary>
+
+This stage is an RNG feast if you don't kill them fast. Ba'al hit 3rd position and Satan & Iblis hit randomly. Whenever your unit got focus fire by them, it's a certain death if you dont guard or shield. You can die even if you guard due to enemy have high attack buff when they are 50% hp below/others dead/ulted. 
+
+</details>
+
+<details>
+
+<summary>Why do Satan so hard to kill?</summary>
+
+Satan have 50% less damage passive. The best turn to deal damage to her is during crazed (Take 50% more damage). You can bring Mina(55% more damage debuff) or Summer Shizuka (47.5% more damage debuff) to beat her down during non-crazed turn. She heal 5% hp after Ba'al is dead and 25% less damage buff after Iblis is dead. 
+
+</details>
+
+<details>
+
+<summary>Team comp?</summary>
+
+Meta: HM.Fiora, B.Baal, B.Satan, TM.Mina, Caesar
+<br>
+Non.Meta: HM.Fiora, B.Iblis
+<br>
+Not Recommend: H.Salucia 
+</details>
+
+<br>
+
+**NOTE: NOT RECOMMEND Satan can be sleep, Ba'al can be paralyze, Iblis can be silence. Satan's choice[Skill] cannot be delay, happen 3n+1(Crazed take higher priorty). Other skills can be delay/skip. Ba'al and Iblis skill will reset to normal (check table) after charge end.**
