@@ -16,8 +16,7 @@
 - When attacked, there's a 100% chance to perform a counter attack on all enemies for 50% for your attack power.
 - Take 50% more damage
 
-#### [Satan Choice] (Target on the lowest Max HP)
-Apply effect on the target
+#### [Satan Choice] (Apply effect on the target with lowest Max HP)
 - Taunt, force the enemy to attack you
 - Take 30% more damage
 
