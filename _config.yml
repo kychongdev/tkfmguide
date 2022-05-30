@@ -12,5 +12,5 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
-remote-theme: dyutibarma/monochrome
+remote-theme: dyutibarma/monochrome@main
 title: "TKFM Guide"
